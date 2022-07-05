@@ -1,0 +1,41 @@
+img {
+    height: 50%;
+    width: 50%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    box-shadow: 5px 5px 10px 5px;
+}
+
+h1{
+   text-align: center;
+}
+
+*{
+    background-color: bisque;
+}
+
+table{
+    color: blue;
+    background-color: black ;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td{
+    padding: 15px;
+}
+
+iframe{
+    width: 100%;
+    text-align: center;
+}
+
+audio{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
